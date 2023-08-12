@@ -43,3 +43,6 @@ npm install web3
 ```
 <hr>
 <img alt="PrintAplicacao" src="https://ik.imagekit.io/cleber/Screenshot_11_MSItP4C0Y.png?updatedAt=1691798740272"/>
+
+<hr>
+<img alt="Tweets" src="https://ik.imagekit.io/cleber/Screenshot_13_xwJfaGvih.png?updatedAt=1691850081610">
